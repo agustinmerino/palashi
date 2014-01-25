@@ -53,7 +53,7 @@
         </property>
         <property name="annotatedClasses">
             <list>
-                
+                <value>com.amclos.model.Empleado</value>
                 
 
 
